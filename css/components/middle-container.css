@@ -1,0 +1,19 @@
+.cards img{
+  width: 200px;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card{
+  border: solid;
+  border: gray;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}

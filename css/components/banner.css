@@ -1,0 +1,23 @@
+.banner{
+  background-image: url("../../images/background.png");
+  padding: 200px 0px;
+  text-align: center;
+}
+
+.banner a{
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a:hover{
+  color:red
+}
+
+h1{
+  color: aliceblue;
+}
+
+p{
+  color: gray;
+}
